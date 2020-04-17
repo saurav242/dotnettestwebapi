@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSpaAKUWh0gMJis2COBpls5AYJyachRLKtK5l4WO/gGwh9REqq8ueAlb0njeFjvKtHYy9M39NOdSIHZYh/BKkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\M1034297\\Source\\Repos\\dotnetwebtest\\dotnetwebtest\\dotnetwebtest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M1034297\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.3\\microsoft.netcore.app.runtime.linux-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\M1034297\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.3\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\M1034297\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.3\\microsoft.netcore.app.host.linux-x64.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
